@@ -1,0 +1,59 @@
+[
+  {
+    "id": "1",
+    "title": "Income Tax Act 2015",
+    "description": "Comprehensive guide to income taxation.",
+    "image": "https://via.placeholder.com/150?text=Income+Tax",
+    "subLaws": [
+      {
+        "id": "1.1",
+        "title": "Section 1: Personal Income Tax",
+        "description": "Rules for taxing individual income."
+      },
+      {
+        "id": "1.2",
+        "title": "Section 2: Corporate Income Tax",
+        "description": "Taxation guidelines for businesses."
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "title": "VAT Act 2013",
+    "description": "Value Added Tax regulations.",
+    "image": "https://via.placeholder.com/150?text=VAT",
+    "subLaws": [
+      {
+        "id": "2.1",
+        "title": "Section 1: VAT Registration",
+        "description": "Requirements for VAT registration."
+      },
+      {
+        "id": "2.2",
+        "title": "Section 2: VAT Returns",
+        "description": "Filing VAT returns."
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Excise Duty Act",
+    "description": "Details on excise duties.",
+    "image": "https://via.placeholder.com/150?text=Excise+Duty",
+    "subLaws": []
+  },
+  {
+    "id": "4",
+    "title": "Customs Act",
+    "description": "Regulations on customs.",
+    "image": "https://via.placeholder.com/150?text=Customs",
+    "subLaws": []
+  },
+  {
+    "id": "5",
+    "title": "Property Tax Law",
+    "description": "Property taxation guidelines.",
+    "image": "https://via.placeholder.com/150?text=Property+Tax",
+    "subLaws": []
+  }
+]
