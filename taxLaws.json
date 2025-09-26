@@ -3,7 +3,7 @@
     "id": "1",
     "title": "Income Tax Act 2015",
     "description": "Comprehensive guide to income taxation.",
-    "image": "https://via.placeholder.com/150?text=Income+Tax",
+    "image": "https://github.com/SamuelBempah/tax-laws-ghana/blob/main/Tax%20laws.jpg?raw=true",
     "subLaws": [
       {
         "id": "1.1",
@@ -21,7 +21,7 @@
     "id": "2",
     "title": "VAT Act 2013",
     "description": "Value Added Tax regulations.",
-    "image": "https://via.placeholder.com/150?text=VAT",
+    "image": "https://github.com/SamuelBempah/tax-laws-ghana/blob/main/Tax%20laws.jpg?raw=true",
     "subLaws": [
       {
         "id": "2.1",
@@ -39,21 +39,21 @@
     "id": "3",
     "title": "Excise Duty Act",
     "description": "Details on excise duties.",
-    "image": "https://via.placeholder.com/150?text=Excise+Duty",
+    "image": "https://github.com/SamuelBempah/tax-laws-ghana/blob/main/Tax%20laws.jpg?raw=true",
     "subLaws": []
   },
   {
     "id": "4",
     "title": "Customs Act",
     "description": "Regulations on customs.",
-    "image": "https://via.placeholder.com/150?text=Customs",
+    "image": "https://github.com/SamuelBempah/tax-laws-ghana/blob/main/Tax%20laws.jpg?raw=true",
     "subLaws": []
   },
   {
     "id": "5",
     "title": "Property Tax Law",
     "description": "Property taxation guidelines.",
-    "image": "https://via.placeholder.com/150?text=Property+Tax",
+    "image": "https://github.com/SamuelBempah/tax-laws-ghana/blob/main/Tax%20laws.jpg?raw=true",
     "subLaws": []
   }
 ]
