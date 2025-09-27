@@ -1,18 +1,39 @@
-{
-  "practiceNotes": [
-    {
-      "id": "1",
-      "title": "Tax Filing Guidelines",
-      "description": "Best practices for filing tax returns in Ghana.",
-      "image": "https://github.com/SamuelBempah/tax-laws-ghana/blob/main/unnamed.png?raw=true",
-      "content": "Detailed guidelines for proper tax filing procedures..."
-    },
-    {
-      "id": "2",
-      "title": "Tax Exemption Notes",
-      "description": "Information on tax exemptions and reliefs.",
-      "image": "https://github.com/SamuelBempah/tax-laws-ghana/blob/main/unnamed.png?raw=true",
-      "content": "Comprehensive notes on available tax exemptions..."
-    }
-  ]
-}
+[
+  {
+    "id": "1",
+    "title": "Note on Tax Audits",
+    "description": "Best practices for audits.",
+    "image": "https://github.com/SamuelBempah/tax-laws-ghana/blob/main/unnamed.png?raw=true"
+  },
+  {
+    "id": "2",
+    "title": "Transfer Pricing Guidelines",
+    "description": "International tax rules.",
+    "image": "https://github.com/SamuelBempah/tax-laws-ghana/blob/main/unnamed.png?raw=true"
+  },
+  {
+    "id": "3",
+    "title": "Tax Reliefs",
+    "description": "Available reliefs and exemptions.",
+    "image": "https://github.com/SamuelBempah/tax-laws-ghana/blob/main/unnamed.png?raw=true"
+  },
+  {
+    "id": "4",
+    "title": "Corporate Tax Filing",
+    "description": "Step-by-step filing process.",
+    "image": "https://github.com/SamuelBempah/tax-laws-ghana/blob/main/unnamed.png?raw=true"
+  },
+  {
+    "id": "5",
+    "title": "Personal Tax Tips",
+    "description": "Tips for individual taxpayers.",
+    "image": "https://github.com/SamuelBempah/tax-laws-ghana/blob/main/unnamed.png?raw=true"
+  },
+  {
+    "id": "6",
+    "title": "VAT Compliance",
+    "description": "Ensuring VAT compliance.",
+    "image": "https://github.com/SamuelBempah/tax-laws-ghana/blob/main/unnamed.png?raw=true"
+  }
+]
+
