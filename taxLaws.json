@@ -1,33 +1,60 @@
-{
-  "taxLaws": [
-    {
-      "id": "1",
-      "title": "Income Tax Act",
-      "description": "Regulations for personal and corporate income taxation in Ghana.",
-      "image": "https://github.com/SamuelBempah/tax-laws-ghana/blob/main/Tax%20laws.jpg?raw=true",
-      "content": "Full text of the Income Tax Act 2015 (Act 896) as amended...",
-      "subLaws": [
-        {
-          "id": "1.1",
-          "title": "Personal Income Tax",
-          "description": "Tax rates and regulations for individual income.",
-          "content": "Detailed content about personal income tax regulations..."
-        },
-        {
-          "id": "1.2",
-          "title": "Corporate Income Tax",
-          "description": "Tax obligations for businesses.",
-          "content": "Detailed content about corporate income tax regulations..."
-        }
-      ]
-    },
-    {
-      "id": "2",
-      "title": "Value Added Tax Act",
-      "description": "Regulations for VAT in Ghana.",
-      "image": "https://github.com/SamuelBempah/tax-laws-ghana/blob/main/Tax%20laws.jpg?raw=true",
-      "content": "Full text of the Value Added Tax Act 2013 (Act 870)...",
-      "subLaws": []
-    }
-  ]
-}
+[
+  {
+    "id": "1",
+    "title": "Income Tax Act 2015",
+    "description": "Comprehensive guide to income taxation.",
+    "image": "https://github.com/SamuelBempah/tax-laws-ghana/blob/main/Tax%20laws.jpg?raw=true",
+    "subLaws": [
+      {
+        "id": "1.1",
+        "title": "Section 1: Personal Income Tax",
+        "description": "Rules for taxing individual income."
+      },
+      {
+        "id": "1.2",
+        "title": "Section 2: Corporate Income Tax",
+        "description": "Taxation guidelines for businesses."
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "title": "VAT Act 2013",
+    "description": "Value Added Tax regulations.",
+    "image": "https://github.com/SamuelBempah/tax-laws-ghana/blob/main/Tax%20laws.jpg?raw=true",
+    "subLaws": [
+      {
+        "id": "2.1",
+        "title": "Section 1: VAT Registration",
+        "description": "Requirements for VAT registration."
+      },
+      {
+        "id": "2.2",
+        "title": "Section 2: VAT Returns",
+        "description": "Filing VAT returns."
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Excise Duty Act",
+    "description": "Details on excise duties.",
+    "image": "https://github.com/SamuelBempah/tax-laws-ghana/blob/main/Tax%20laws.jpg?raw=true",
+    "subLaws": []
+  },
+  {
+    "id": "4",
+    "title": "Customs Act",
+    "description": "Regulations on customs.",
+    "image": "https://github.com/SamuelBempah/tax-laws-ghana/blob/main/Tax%20laws.jpg?raw=true",
+    "subLaws": []
+  },
+  {
+    "id": "5",
+    "title": "Property Tax Law",
+    "description": "Property taxation guidelines.",
+    "image": "https://github.com/SamuelBempah/tax-laws-ghana/blob/main/Tax%20laws.jpg?raw=true",
+    "subLaws": []
+  }
+]
+
